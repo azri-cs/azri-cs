@@ -2,9 +2,9 @@
 
 My name is Azri Adam, currently jobless. I'm a Laravel developer and love to ease out businesses processes/workflow. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azri-cs/)](https://www.linkedin.com/in/azri-cs/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azriadam.cs@gmail.com)](mailto:azriadam.cs@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/azri_cs)](https://twitter.com/azri_cs)
+[![Linkedin Badge](https://img.shields.io/badge/-Azri--Adam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azri-cs/)](https://www.linkedin.com/in/azri-cs/)
+[![Gmail Badge](https://img.shields.io/badge/-azriadam.cs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azriadam.cs@gmail.com)](mailto:azriadam.cs@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Azri--CS-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/azri_cs)](https://twitter.com/azri_cs)
 
 
 ## ⚡ Technologies
