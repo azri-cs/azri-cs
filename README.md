@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Azri Adam, currently jobless. I'm a Laravel developer and love to learn wide range of skill. Find out more about me & feel free to connect with me here:
+My name is Azri Adam, currently working as Frontend Developer at HAYAT Technologies Sdn Bhd. I'm a Laravel developer and love to learn wide range of skill. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Azri--Adam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azri-cs/)](https://www.linkedin.com/in/azri-cs/)
 [![Gmail Badge](https://img.shields.io/badge/-azriadam.cs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azriadam.cs@gmail.com)](mailto:azriadam.cs@gmail.com)
