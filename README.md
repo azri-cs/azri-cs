@@ -4,7 +4,7 @@ My name is Azri, currently working as Frontend Developer at HAYAT Technologies S
 
 [![Linkedin Badge](https://img.shields.io/badge/-Azri--Adam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azri-cs/)](https://www.linkedin.com/in/azri-cs/)
 [![Gmail Badge](https://img.shields.io/badge/-azriadam.cs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azriadam.cs@gmail.com)](mailto:azriadam.cs@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Azri--CS-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/azri_cs)](https://twitter.com/azri_cs)
+[![X Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fazri_cs&style=flat-square&logo=x&label=azri_cs)](https://x.com/azri_cs)
 
 
 ## ⚡ Technologies
