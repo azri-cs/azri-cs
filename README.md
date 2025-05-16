@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name is Azri, currently working as Frontend Developer at HAYAT Technologies Sdn Bhd. Started my professional career as Laravel developer and love to learn wide range of skill. Find out more about me & feel free to connect with me here:
+My name is Azri, currently working as Team Lead at HAYAT Technologies Sdn Bhd. Started my professional career as Laravel developer, moved to IT and back to web development.
+
+Love to learn wide range of skill to become more jack-of-all-trades.
+
+Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Azri--Adam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azri-cs/)](https://www.linkedin.com/in/azri-cs/)
 [![Gmail Badge](https://img.shields.io/badge/-azriadam.cs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azriadam.cs@gmail.com)](mailto:azriadam.cs@gmail.com)
@@ -30,7 +34,9 @@ My name is Azri, currently working as Frontend Developer at HAYAT Technologies S
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Apache Subversion](https://img.shields.io/badge/Subversion-%23809CC9.svg?style=flat-square&logo=subversion&logoColor=white)
 
-## 🧑‍💻 Used to Grind
+## 🧑‍💻 Grind Skill
+[![Boot.Dev](https://img.shields.io/badge/-Boot.Dev|azriadam--cs-black?logoColor=white&link=https://www.boot.dev/u/azriadam-cs)](https://www.boot.dev/u/azriadam-cs)
+
 [![Hackerrank](https://img.shields.io/badge/-azriadam_cs-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/azriadam_cs)](https://www.hackerrank.com/azriadam_cs)
 
 ## ☁️ Hosting Used
