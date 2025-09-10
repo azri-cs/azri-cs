@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Azri, currently working as Team Lead at HAYAT Technologies Sdn Bhd. Started my professional career as Laravel developer, moved to IT and back to web development.
+My name is Azri, currently working as Assistant Team Lead at HAYAT Technologies Sdn Bhd. Started my professional career as Laravel developer, moved to IT and back to web development.
 
 Love to learn wide range of skill to become more jack-of-all-trades.
 
